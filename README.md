@@ -1,1 +1,4 @@
 # CLACP-App-FYP
+
+Description
+    The Crime Law Awareness and Consultancy Portal (CLACP) represents an entirely new and innovative product in the realm of legal technology. As the first of its kind, CLACP is not a successor to an existing application or the next version of a mature system. Rather, it emerges as a establishing solution to address the increasing need for enhanced crime law awareness and accessibility in Pakistan. Positioned at the joining of legal information, communication technology, and citizen empowerment, CLACP stands alone as a groundbreaking initiative to bridge the informational gap between citizens and the complex legal landscape defined by the Pakistan Penal Code (PPC). This unique product is conceived to be a catalyst for legal awareness and consultation, setting the stage for a more informed and legally empowered society.
